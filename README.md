@@ -1,4 +1,4 @@
-# Recreating initial page of Instagram DIO
+# Recreating initial page of Instagram (DIO challenge)
 
 This project was made to improve my knowledge with CSS
 
