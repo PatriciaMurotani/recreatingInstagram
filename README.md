@@ -1,6 +1,6 @@
 # Recreating initial page of Instagram (DIO challenge)
 
-This project was made to improve my knowledge with CSS
+This project was made to improve my knowledge with CSS.
 
 Languages used: HTML and CSS
 
